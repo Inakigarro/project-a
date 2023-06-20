@@ -12,8 +12,8 @@
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
     "paths": {
-      "modules": [
-        "dist/modules"
+      "@igarro/modules": [
+        "projects/modules/src/public-api.ts"
       ]
     },
     "declaration": false,
